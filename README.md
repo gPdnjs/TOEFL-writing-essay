@@ -1,5 +1,6 @@
 # TOEFL-writing-essay
 draft(초안)
+
 The effect of technology advances on the future
 
    Currently, the movie business is developing day by day, and various genres of movies are getting released. There are many historical backgrounds from the far past to the future that we can only imagine. Some of the movies that handle the future are positive, while others are negative. In other words, the technology which is positive for us in present, may return to us negative in the future. The development of science and technology is truely essential and inevitable in our lives. However, in the long run, the negative impact is likely to be greater. So I'm going to say that the development of science and technology has a negative impact on the future based on the movie because of three following reasons.
